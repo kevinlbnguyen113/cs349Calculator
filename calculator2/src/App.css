@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.body{
+  max-width: 400px;
+  margin: auto;
+}
+.result{
+  font-size: 40px;
+}
+.buttons {
+display: block;
+}
+
+.buttons button{
+  width: 60px;
+  height:  40px;
+}
